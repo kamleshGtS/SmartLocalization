@@ -12,7 +12,7 @@
   ],
   "author": "kamlesh.parihar@gtsinfosoft.com",
   "license": "MIT",
-  "description": "Flexible i18n solution. Users provide their own locale JSON files.",
+  "description": "Flexible  solution. Users provide their own locale JSON files.",
   "files": [
     "index.js"
   ],
